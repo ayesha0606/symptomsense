@@ -1,6 +1,6 @@
 # SymptomSense
 
-Unified onboarding guide for running the SymptomSense disease prediction experience (Flask API + React UI).
+Unified onboarding guide for running the SymptomSense disease prediction experience (Flask  + React UI).
 
 ## Requirements
 - Python 3.10+ with `pip`
